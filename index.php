@@ -4,7 +4,7 @@
 		<meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
 		<meta name=viewport content="width=device-width, initial-scale=1">
 		<title>Is It Time To Pack?</title>
-style type="text/css" media="screen"><!--
+<style type="text/css" media="screen"><!--
 * { box-sizing: border-box; }
 body {margin: 0; padding: 0; font-family: Verdana,Geneva,sans-serif;}
 #outer { position: absolute; display: table; width: 100%; height: 99%; margin: 0 auto; }
